@@ -1,6 +1,6 @@
 # Contactless-Fine-grained-Cardiac-Events-Detection-and-Segmentation
 ## Code repository for the paper: Contactless Fine-grained Cardiac Events Detection and Segmentation with Radio Frequency Signals
-Authors: [Zehan Guo], [Binbin Zhang], Jinbo Chen, Yang Hu, and [Yan Chen](https://ustc-ip-lab.github.io/authors/yanchen/)
+Authors: Zehan Guo, Binbin Zhang, Jinbo Chen, Yang Hu, and [Yan Chen](https://ustc-ip-lab.github.io/authors/yanchen/)
 
 Affiliation: [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), University of Science and Technology of China. [Paper Link](https://dl.acm.org/doi/abs/10.1145/3749457)
 
