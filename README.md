@@ -6,7 +6,7 @@ Affiliation: [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), Unive
 
 ## How to Access the Code
 
-The [USTC IP Lab](https://ustc-ip-lab.github.io/) has particular protocols for releasing the code and dataset. To access the code, please sign the [code agreement](IPLabCodeAgreement.pdf), scan and send it to guozehan@mail.ustc.edu.cn. A notification email that includes the code will be sent within three days.
+The [USTC IP Lab](https://ustc-ip-lab.github.io/) has particular protocols for releasing the code. To access the code, please sign the [code agreement](IPLabCodeAgreement.pdf), scan and send it to guozehan@mail.ustc.edu.cn. A notification email that includes the code will be sent within three days.
 
 ## Citing
 If you find this code useful for your research, please consider citing the following papers:
